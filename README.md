@@ -22,7 +22,8 @@ Median annual healthcare expenditure|$7,875 |	$11,292
 
 Hospitalization rate|	18.35% |	23.72%
 
-Mean age|	62.34 years |	59.03 years
+Mean age| 62.34 years | 59.03 years
+
 --------------------------------------
 
 The treated group had lower average and median annual healthcare expenditures and a lower hospitalization rate than the comparison group, despite being older on average. These findings are descriptive and do not yet establish a causal treatment effect, as differences in patient characteristics and disease severity may influence both treatment assignment and outcomes.
