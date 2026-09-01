@@ -1,16 +1,16 @@
-# HEOR_Cost_Effectiveness_project
-I used MEPS real-world data to construct a cohort of diabetic patients, applied propensity score matching to address confounding, estimated treatment effects on cost and hospitalization using regression and survival models, and conducted a cost-effectiveness analysis using ICER.
+# Cost and Effectiveness of Diabetes Treatment Using Real-World Data (MEPS)
+I used Medical Expenditure Panel Survey (MEPS) real-world data to construct a cohort of diabetic patients, applied propensity score matching to address confounding, estimated treatment effects on cost and hospitalization using regression and survival models, and conducted a cost-effectiveness analysis using ICER.
 
-Preliminary Findings
+## Preliminary Findings
 
 Using data from the Medical Expenditure Panel Survey (MEPS), a real-world cohort of 2,508 U.S. adults with diabetes was constructed by linking diagnosis, demographic, healthcare utilization, expenditure, and prescription medication data.
 
-Patients were classified into:
+## Patients were classified into:
 
 Diabetes medication treatment group: 1,842 patients
 Comparison group: 666 patients
 
-Initial Descriptive Findings
+## Initial Descriptive Findings
 
 Preliminary comparisons show differences in healthcare utilization and expenditures between the two groups:
 
