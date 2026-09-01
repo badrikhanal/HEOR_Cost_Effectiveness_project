@@ -17,8 +17,11 @@ Preliminary comparisons show differences in healthcare utilization and expenditu
 Measure	|Treated	|Comparison
 -------------------------------
 Mean annual healthcare expenditure |	$15,598 |	$23,288
+
 Median annual healthcare expenditure|$7,875 |	$11,292
+
 Hospitalization rate|	18.35% |	23.72%
+
 Mean age |	62.34 years |	59.03 years
 --------------------------------------
 
